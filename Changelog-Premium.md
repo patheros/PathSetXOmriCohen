@@ -1,6 +1,19 @@
 
 # Path Set X Omri Cohen - Change Log - Premium
 
+## v2.1.0
+**Truffles**
+* Added reset trigger and button. This resets the active slide being played.
+
+**Panther Cap**
+* Added clear button and trigger. Clears the current sample
+* Added recording trigger output. Sends pulse when recording starts and stops. Behavior is configurable in context menu.
+* EOC output now has a multipler/divider in the context menu.
+* Recording CV input can now be set to momentary from the context menu.
+* Attempted fix for audio cutting out on one or both channels when pitch knob is not at 12 o'clock. https://github.com/patheros/PathSetXOmriCohen/issues/6
+* Better support for use as a live effect (fewer click and pops)
+
+
 ## v2.0.2
 **Hyphae**
 * Audio Inputs now sum polyphonic cables https://github.com/patheros/PathSetXOmriCohen/issues/3

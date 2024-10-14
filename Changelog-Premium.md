@@ -8,7 +8,7 @@
 **Panther Cap**
 * Added clear button and trigger. Clears the current sample
 * Added recording trigger output. Sends pulse when recording starts and stops. Behavior is configurable in context menu.
-* EOC output now has a multipler/divider in the context menu.
+* EOC output now has a multiplier/divider in the context menu.
 * Recording CV input can now be set to momentary from the context menu.
 * Attempted fix for audio cutting out on one or both channels when pitch knob is not at 12 o'clock. https://github.com/patheros/PathSetXOmriCohen/issues/6
 * Better support for use as a live effect (fewer click and pops)
